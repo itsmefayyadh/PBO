@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "connectionTimeout": 30,
+            "name": "Praktikum",
+            "database": "Nortwind_202",
+            "username": "Fayyadh Abdillah",
+            "password": "200414"
+        }
+    ]
+}
